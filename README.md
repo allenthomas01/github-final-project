@@ -8,3 +8,10 @@ A calculator that calculates simple interest given principal, annual rate of int
    r, annual rate of interest
 - Output:
    simple interest = p*t*r
+* Item
+    1. First Subitem
+    2. Second Subitem
+* Item
+    - Subitem
+    - Subitem
+* Item
